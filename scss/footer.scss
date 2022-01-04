@@ -1,0 +1,28 @@
+.footer{
+    display: flex;
+    justify-content: space-between;
+    align-items:center;
+    padding-top: 5%;
+    padding-bottom:  5%;
+    background: #f8f9fa;
+    padding: 100px 150px;
+}
+.footertext{
+  .uppertext{
+    display: flex;
+    gap: 20px;
+    font-size: 20px;
+    color: #007bff;
+    padding-bottom: 10px;
+  }
+  flex-direction: column;
+  color:  gray;
+  display: flex;
+  p{
+    padding-right: 5px;
+  }
+}
+.footericons{
+display: flex;
+gap:20px;
+}
